@@ -13,7 +13,7 @@ My research interest is how computers understand the world, including efficient 
 
 
 ### About me
-- 📝 I enjoy teaching what I know, so I am giving lectures on AI as an AI Facilitator at ETRI AI Academy.<br/>
+- 📝 I enjoy ~~teaching~~ talking what I know, so I am giving lectures on AI as an AI Facilitator at ETRI AI Academy.<br/>
 - 🌏🌱🌲🌊 ⛰️ I love to appreciate the beautiful nature.<br/>
 - 🎾 🏀 I enjoy playing tennis and basket ball. <br/>
 - 📫 How to reach me:  yw.lee@etri.re.kr | ywlee88@kaist.ac.kr
