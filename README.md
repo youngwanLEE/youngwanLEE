@@ -1,6 +1,6 @@
 <!-- 👋&nbsp; Hi there! I'm Youngwan, a researcher at ETRI and Ph.D student in graduate school of AI at KAIST.<br/><br/> -->
 <!-- 👋&nbsp; Hi there! I'm Youngwan, a researcher at ETRI and Ph.D student in the [Machine Learning and Artificial Intelligence (MLAI)](https://www.mlai-kaist.com/) lab at KAIST, under the supervision of Prof. [Sung Ju Hwang](http://www.sungjuhwang.com/).<br/><br/> -->
-👋&nbsp; Hi there! I'm **Youngwan**, a _researcher_ at [ETRI](https://www.etri.re.kr/eng/main/main.etri) and _Ph.D student_ in Graduate school of AI at [KAIST](https://www.kaist.ac.kr/en/), where I'm advised by Prof. [Sung Ju Hwang](http://www.sungjuhwang.com/) in the [Machine Learning and Artificial Intelligence (MLAI)](https://www.mlai-kaist.com/) lab.<br/><br/>
+👋&nbsp; Hi there! I'm **Youngwan**, a _senior researcher_ at [ETRI](https://www.etri.re.kr/eng/main/main.etri) and _Ph.D student_ in Graduate school of AI at [KAIST](https://www.kaist.ac.kr/en/), where I'm advised by Prof. [Sung Ju Hwang](http://www.sungjuhwang.com/) in the [Machine Learning and Artificial Intelligence (MLAI)](https://www.mlai-kaist.com/) lab.<br/><br/>
 My research interest is how computers understand the world, including efficient 2D/3D neural network design, object detection, instance segmentation, semantic segmentation, and video classification. 🖥️🌏 <br/><br/>
 
 
