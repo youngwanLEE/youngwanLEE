@@ -6,6 +6,7 @@ My research interest is how computers understand the world, including efficient 
 
 ### Representative publications and Codes
 #### See [Google scholar](https://scholar.google.com/citations?user=EqemKYsAAAAJ&hl=en) for full list.
+- [RC-MAE](https://github.com/youngwanLEE/rc-mae): Exploring the Role of Mean Teachers in Self-supervised Masked Auto-Encoders, ICLR 2023.
 - [MPViT](https://github.com/youngwanLEE/MPViT) : Multi-Path Vision Transformer for Dense Prediction, CVPR 2022.
 - [CenterMask](https://github.com/youngwanLEE/centermask2) : Real-Time Anchor-Free Instance Segmentation, CVPR 2020.
 - 2D convolutional neural network : [VoVNet](https://github.com/youngwanLEE/vovnet-detectron2)
