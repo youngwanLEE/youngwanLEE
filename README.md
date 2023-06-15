@@ -20,8 +20,6 @@ My research interest is how computers understand the world, including efficient 
 - 📫 How to reach me:  yw.lee@etri.re.kr | ywlee88@kaist.ac.kr
 
 
-![Youngwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngwanLEE&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)
-
 ### 💪 Skills
 #### Platforms & Languages
 <p>
